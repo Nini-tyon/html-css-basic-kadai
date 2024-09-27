@@ -1,0 +1,51 @@
+body{
+    font-family: "Arial", "Meiryo", sans-serif ;
+}
+.google-fonts{
+    // <uniquifier>: Use a unique and descriptive class name
+
+.josefin-sans-<uniquifier> {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+/* フォントサイズの変更 */
+html{
+    font-size: 20px;
+}
+h1{
+    font-size: 2em;
+}
+
+/* フォントカラーの変更 */
+.M{
+    color: skyblue;
+}
+.P{
+    color: rgb(255, 192, 203)
+}
+.pink{
+    color: rgb(255, 192, 203)
+}
+.skyblue{
+    color: skyblue;
+}
+
+/* その他の装飾 */
+html{
+    text-align: center;
+}
+h1{
+    letter-spacing: 1.2em;
+}
+h1{
+    text-shadow: 5px 1px 2px gray;
+}
+h1{
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+.parent p{
+    font-weight: bold;
+}
