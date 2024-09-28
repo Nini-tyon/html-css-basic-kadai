@@ -14,10 +14,15 @@ body{
 /* フォントサイズの変更 */
 html{
     font-size: 20px;
+    text-align: center;
 }
 h1{
-    font-size: calc(2 * 1rem);
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 5px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
 }
+
 
 /* フォントカラーの変更 */
 .M{
@@ -34,18 +39,6 @@ h1{
 }
 
 /* その他の装飾 */
-html{
-    text-align: center;
-}
-h1{
-    letter-spacing: calc(40px * 1.2);
-}
-h1{
-    text-shadow: 5px 1px 2px gray;
-}
-h1{
-    border-bottom: solid 3px rgb(115, 115, 114);
-}
 #parent p{
     font-weight: bold;
 }
