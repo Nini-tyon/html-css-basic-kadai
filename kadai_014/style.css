@@ -1,16 +1,10 @@
 body{
     font-family: "Arial", "Meiryo", sans-serif ;
 }
-.google-fonts{
-    // <uniquifier>: Use a unique and descriptive class name
+.google-fonts {
+    font-family: "Josefin Sans", sans-serif;
+}
 
-.josefin-sans-<uniquifier> {
-  font-family: "Josefin Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
-}
 /* フォントサイズの変更 */
 html{
     font-size: 20px;
@@ -39,6 +33,6 @@ h1{
 }
 
 /* その他の装飾 */
-#parent p{
+#basic p{
     font-weight: bold;
 }
