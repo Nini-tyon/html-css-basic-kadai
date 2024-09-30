@@ -1,0 +1,38 @@
+body{
+    font-family: "Arial", "Meiryo", sans-serif ;
+}
+.google-fonts {
+    font-family: "Josefin Sans", sans-serif;
+}
+
+/* フォントサイズの変更 */
+html{
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 5px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+
+/* フォントカラーの変更 */
+.M{
+    color: skyblue;
+}
+.P{
+    color: rgb(255, 192, 203)
+}
+.pink{
+    color: rgb(255, 192, 203)
+}
+.skyblue{
+    color: skyblue;
+}
+
+/* その他の装飾 */
+#basic p{
+    font-weight: bold;
+}

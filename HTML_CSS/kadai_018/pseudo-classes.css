@@ -1,0 +1,12 @@
+.parent {
+    background-color: whitesmoke;
+}
+a:link {
+    color: orange;
+}
+a:visited {
+    color: orange;
+}
+a:hover {
+    color: purple;
+}

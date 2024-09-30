@@ -1,0 +1,29 @@
+body{
+    font-family: "Arial", "Meiryo", sans-serif ;
+}
+.google-fonts{
+    // <uniquifier>: Use a unique and descriptive class name
+
+.josefin-sans-<uniquifier> {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+/* フォントサイズの変更 */
+html{
+    font-size: 20px;
+}
+h1{
+    font-size: 2em;
+}
+
+/* フォントカラーの変更 */
+.M{
+    color: skyblue;
+}
+.P{
+    rgb(255, 192, 203) 
+}
+
